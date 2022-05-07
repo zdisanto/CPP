@@ -4,6 +4,6 @@ Currently learning C++, this is what I am working on so far.
 
 _SHELL Commands:_
 
-**Compile:** g++ <fileName.cpp> -o <fileNameWithoutCPP>
+**Compile:** g++ <fileName.cpp> -o <fileNameWithout.cpp>
 
-**Run:** ./<fileNameWithoutCPP>
+**Run:** ./<fileNameWithout.cpp>
