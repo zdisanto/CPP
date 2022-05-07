@@ -88,7 +88,7 @@ _SHELL Commands:_
     - Review ```sumProduct.cpp```
 - Chapter 6: Functions
   - Lesson 1: Functions
-    - The Function of Functions
+    - The Function of Functions ```main.cpp```
     - Built-in Functions
     - Declare & Define
     - Void - The Point of No Return
