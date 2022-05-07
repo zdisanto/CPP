@@ -88,6 +88,16 @@ _SHELL Commands:_
     - Review ```sumProduct.cpp```
 - Chapter 6: Functions
   - Lesson 1: Functions
+    - The Function of Functions
+    - Built-in Functions
+    - Declare & Define
+    - Void - The Point of No Return
+    - Return Types - Beyond the Void
+    - How Return Values Work
+    - Parameters & Arguments
+    - Tackling Multiple Arguments
+    - How Parameters & Arguments Work
+    - Review of C++ Functions
   - Lesson 2: Code Challenge: C++ Functions
   - Lesson 3: Functions: Scope & Flexibility
 - Chapter 7: Classes & Objects
