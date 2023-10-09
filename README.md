@@ -99,7 +99,14 @@ _SHELL Commands:_
     - How Parameters & Arguments Work
     - Review of C++ Functions `it.cpp`
   - Lesson 2: Code Challenge: C++ Functions
+    - Introduction `introduction.cpp`
+    - Average `average.cpp`
+    - Tenth Power `tenthPower.cpp`
+    - First Three Multiples `first3Multiples.cpp`
+    - Water Plant `waterPlant.cpp`
+    - Palindrome `palindrome.cpp`
   - Lesson 3: Functions: Scope & Flexibility
+    - 
 - Chapter 7: Classes & Objects
   - Lesson 1: Classes & Objects
 - Chapter 8: References & Pointers
